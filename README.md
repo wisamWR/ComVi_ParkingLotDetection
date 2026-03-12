@@ -1,6 +1,8 @@
 # Smart Parking Detection System
 Sistem deteksi parkir berbasis computer vision menggunakan edge computing pada NVIDIA Jetson Nano.
 
+https://github.com/user-attachments/assets/c2a6f96a-99cd-4ac5-9766-86320e244d01
+
 ## Deskripsi
 System ini mendeteksi slot parkir kosong dan terisi secara realtime menggunakan kamera USB, model YOLO yang dioptimasi dengan TensorRT, dan menampilkan hasilnya di LCD 1602 yang terpasang langsung pada Jetson Nano.
 
